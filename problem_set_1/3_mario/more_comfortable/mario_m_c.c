@@ -20,9 +20,9 @@ int main(void)
     }
     
     //Loop to go through the height, one level at a time
-    for (int i =0; i<numSteps; i++)
+    for (int i = 0; i < numSteps; i++)
     {
-        step = 2+i;
+        step = 2 + i;
         spaces = numSteps -step;
      
         //Loop to print the spaces
